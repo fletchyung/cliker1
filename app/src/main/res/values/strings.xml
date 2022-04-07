@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Technics</string>
+    <string name="txt_students">Техника</string>
+    <string name="btn_students">Скопировать технику</string>
+</resources>
